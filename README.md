@@ -1,10 +1,15 @@
 # GettingCleaningData
 
-======================================
+==================================
+
 Getting and Cleaning Data Assignment
+
 Version 1.0
+
 ======================================
+
 Inaki Blanco-Acosta
+
 ======================================
 
 R Script called run_analysis.R that retrieves data stored in several txt files, corresponding to information collected from the accelerometers of the Samsung Galaxy S smartphone. The script manipulates the source information to achieve the following assignment objectives:
